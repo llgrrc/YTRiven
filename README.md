@@ -12,8 +12,8 @@ Welcome to YT Riven, a YouTube video downloader and converter script developed b
 
 ## Prerequisites
 
-Copy the link of video from URL in header to make process more faster
-Make sure you have the following dependencies installed:
+- Copy the link of video from URL in header to make process more faster
+- Make sure you have the following dependencies installed:
 
 - `yt-dlp`: A YouTube video downloader.
 - `ffmpeg`: A tool for converting multimedia files.
